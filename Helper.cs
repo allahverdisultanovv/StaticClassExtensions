@@ -74,18 +74,8 @@
                 Console.WriteLine("uzunluq en azi 8 olmalidir");
                 return false;
             }
-            bool checkDigit = false;
-
-            for (int i = 0; i < password.Length; i++)
-            {
-                if (Char.IsDigit(password[i]))
-                {
-                    checkDigit = true;
-                    break;
-                }
-
-            }
-            if (!checkDigit)
+          
+            if (!password.HasDigit())
             {
                 Console.WriteLine("en azi 1 reqem olmalidir!");
                 return false;
