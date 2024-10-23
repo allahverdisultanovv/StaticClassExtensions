@@ -1,0 +1,15 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.sourcelink.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\bin\Debug\net6.0\StaticClassHelperExtensions.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\bin\Debug\net6.0\StaticClassHelperExtensions.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\bin\Debug\net6.0\StaticClassHelperExtensions.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\bin\Debug\net6.0\StaticClassHelperExtensions.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\bin\Debug\net6.0\StaticClassHelperExtensions.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\refint\StaticClassHelperExtensions.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\StaticClassHelperExtensions.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\StaticClassHelperExtensions\obj\Debug\net6.0\ref\StaticClassHelperExtensions.dll
